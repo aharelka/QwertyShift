@@ -1,7 +1,7 @@
 # QwertyShift ⌨️🔊
 
 Never get confused by typing in the wrong language again. QwertyShift runs quietly in your system tray and lets you know exactly which layout is active without you having to look down or check the taskbar.
-A lightweight, elegant Windows desktop application that provides smart audio feedback and voice announcements whenever you switch your keyboard layout. 
+A lightweight, elegant Windows desktop application that provides smart audio feedback and voice announcements whenever you switch your keyboard layout.
 
 ## Key Features
 

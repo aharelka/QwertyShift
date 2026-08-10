@@ -6,12 +6,12 @@ A lightweight, elegant Windows desktop application that provides smart audio fee
 
 ## Key Features
 
-* **Smart Typing Detection:** QwertyShift pauses its announcements while you are actively typing, ensuring it never interrupts your workflow.
-* **Text-to-Speech (TTS):** Automatically announces the name of the newly selected layout aloud.
-* **Custom Audio Support:** Prefer sounds over voice? Map specific `.wav` audio files to different languages.
-* **Custom Layout Names:** Rename your layouts to whatever you want the voice synthesizer to say (e.g., change "English (US)" to just "English").
-* **Fluent Design UI:** A clean, modern interface featuring Windows 11 design elements like rounded corners and toggle switches.
-* **Background Execution:** Minimizes seamlessly to the system tray and starts automatically with Windows.
+* QwertyShift pauses its announcements while you are actively typing, ensuring it never interrupts your workflow.
+* Automatically announces the name of the newly selected layout aloud.
+* Prefer sounds over voice? Map specific `.wav` audio files to different languages.
+* Rename your layouts to whatever you want the voice synthesizer to say (e.g., change "French (AZERTY)" to just "Ohlala").
+* A clean, modern interface featuring Windows 11 Fluent Design UI.
+* Minimizes seamlessly to the system tray and starts automatically with Windows.
 
 ## Screenshots
 
